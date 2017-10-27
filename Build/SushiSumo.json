@@ -1,9 +1,0 @@
-{
-"TOTAL_MEMORY": 268435456,
-"dataUrl": "SushiSumo.data.unityweb",
-"asmCodeUrl": "SushiSumo.asm.code.unityweb",
-"asmMemoryUrl": "SushiSumo.asm.memory.unityweb",
-"asmFrameworkUrl": "SushiSumo.asm.framework.unityweb",
-"splashScreenStyle": "Dark",
-"backgroundColor": "#231F20"
-}
